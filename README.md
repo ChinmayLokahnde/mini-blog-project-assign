@@ -10,4 +10,6 @@ View all posts in a list
 Edit existing posts
 Delete posts
 
-![Uploading Screenshot 2025-09-20 195711.png…]()
+
+<img width="1037" height="802" alt="image" src="https://github.com/user-attachments/assets/97748659-0fbb-46ce-a6a0-acf75f6d84d1" />
+
