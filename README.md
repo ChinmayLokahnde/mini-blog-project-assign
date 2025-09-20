@@ -9,3 +9,5 @@ Create blog posts with title and content
 View all posts in a list
 Edit existing posts
 Delete posts
+
+![Uploading Screenshot 2025-09-20 195711.png…]()
